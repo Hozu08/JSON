@@ -5,5 +5,15 @@
       "fecha_nacimiento": "1998-06-11", 
       "estatura": 1.81 
       }
+     { "nombre": "Alejandro", 
+      "cedula": "46456457", 
+      "fecha_nacimiento": "2000-05-09", 
+      "estatura": 1.75
+      }
+     { "nombre": "Camilo", 
+      "cedula": "543812224", 
+      "fecha_nacimiento": "1985-06-11", 
+      "estatura": 1.80
+      }
     ]
 }
