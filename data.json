@@ -1,5 +1,9 @@
-{ "nombre": "Luis", 
-  "cedula": "1003436009", 
-  "fecha_nacimiento": "1998-06-11", 
-  "estatura": 1.81 
+{
+  "personas":[
+      { "nombre": "Luis", 
+      "cedula": "1003436009", 
+      "fecha_nacimiento": "1998-06-11", 
+      "estatura": 1.81 
+      }
+    ]
 }
