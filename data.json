@@ -1,19 +1,33 @@
-{
-  "personas":[
-      { "nombre": "Luis", 
-      "cedula": "1003436009", 
-      "fecha_nacimiento": "1998-06-11", 
-      "estatura": 1.81 
-      }
-     { "nombre": "Alejandro", 
-      "cedula": "46456457", 
-      "fecha_nacimiento": "2000-05-09", 
-      "estatura": 1.75
-      }
-     { "nombre": "Camilo", 
-      "cedula": "543812224", 
-      "fecha_nacimiento": "1985-06-11", 
-      "estatura": 1.80
-      }
-    ]
-}
+[
+    
+	{
+		"nombre": "David Herring",
+		"cedula": 1678139589,
+		"fecha_nacimiento": "Mar 18, 2025",
+		"estatura": 2.5
+	},
+	{
+		"nombre": "Bianca Lawrence",
+		"cedula": 618409121,
+		"fecha_nacimiento": "Apr 7, 2025",
+		"estatura": 2.5
+	},
+	{
+		"nombre": "Harlan Hendricks",
+		"cedula": 1760402701,
+		"fecha_nacimiento": "Aug 13, 2024",
+		"estatura": 1.5
+	},
+	{
+		"nombre": "Dahlia Gill",
+		"cedula": 1067665932,
+		"fecha_nacimiento": "May 8, 2025",
+		"estatura": 2.5
+	},
+	{
+		"nombre": "Lucy Workman",
+		"cedula": 219644961,
+		"fecha_nacimiento": "Sep 5, 2023",
+		"estatura": 1.5
+	}
+]
